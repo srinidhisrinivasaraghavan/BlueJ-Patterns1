@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BaseBurger()
+comment1.params=meat\ weight\ bunOrBowl
+comment1.target=BaseBurger(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ calPrice()
+comment3.params=
+comment3.target=java.lang.String\ orderDescription()
+numComments=4
